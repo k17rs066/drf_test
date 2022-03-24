@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class DjangoRestFrameworkTestAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'django_rest_framework_test_app'
+    name = 'drf_test_app'
